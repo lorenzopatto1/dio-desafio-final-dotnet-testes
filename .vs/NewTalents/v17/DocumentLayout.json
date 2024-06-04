@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\loren\\OneDrive\\Documentos\\www\\teste\\NewTalents\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3A6305F1-C9F9-4D3F-B769-E2335127016D}|TestNewTalents\\TestNewTalents.csproj|C:\\Users\\loren\\OneDrive\\Documentos\\www\\teste\\NewTalents\\testnewtalents\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6305F1-C9F9-4D3F-B769-E2335127016D}|TestNewTalents\\TestNewTalents.csproj|solutionrelative:testnewtalents\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8BEB1033-4E44-42F1-AC96-C13CDACBABBB}|NewTalents\\NewTalents.csproj|c:\\users\\loren\\onedrive\\documentos\\www\\teste\\newtalents\\newtalents\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BEB1033-4E44-42F1-AC96-C13CDACBABBB}|NewTalents\\NewTalents.csproj|solutionrelative:newtalents\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A6305F1-C9F9-4D3F-B769-E2335127016D}|TestNewTalents\\TestNewTalents.csproj|c:\\users\\loren\\onedrive\\documentos\\www\\teste\\newtalents\\testnewtalents\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A6305F1-C9F9-4D3F-B769-E2335127016D}|TestNewTalents\\TestNewTalents.csproj|solutionrelative:testnewtalents\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BEB1033-4E44-42F1-AC96-C13CDACBABBB}|NewTalents\\NewTalents.csproj|c:\\users\\loren\\onedrive\\documentos\\www\\teste\\newtalents\\newtalents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8BEB1033-4E44-42F1-AC96-C13CDACBABBB}|NewTalents\\NewTalents.csproj|C:\\Users\\loren\\OneDrive\\Documentos\\www\\teste\\NewTalents\\newtalents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BEB1033-4E44-42F1-AC96-C13CDACBABBB}|NewTalents\\NewTalents.csproj|solutionrelative:newtalents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,30 +22,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Calculadora.cs",
               "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documentos\\www\\teste\\NewTalents\\NewTalents\\Calculadora.cs",
               "RelativeDocumentMoniker": "NewTalents\\Calculadora.cs",
               "ToolTip": "C:\\Users\\loren\\OneDrive\\Documentos\\www\\teste\\NewTalents\\NewTalents\\Calculadora.cs",
               "RelativeToolTip": "NewTalents\\Calculadora.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T02:34:58.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\loren\\OneDrive\\Documentos\\www\\teste\\NewTalents\\TestNewTalents\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TestNewTalents\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\loren\\OneDrive\\Documentos\\www\\teste\\NewTalents\\TestNewTalents\\UnitTest1.cs",
               "RelativeToolTip": "TestNewTalents\\UnitTest1.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEgAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T02:33:53.478Z",
               "EditorCaption": ""
@@ -60,8 +60,7 @@
               "RelativeToolTip": "NewTalents\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T02:31:56.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-04T02:31:56.931Z"
             }
           ]
         }

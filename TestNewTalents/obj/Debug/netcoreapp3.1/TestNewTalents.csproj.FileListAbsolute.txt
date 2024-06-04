@@ -101,3 +101,4 @@ C:\Users\loren\OneDrive\Documentos\www\teste\NewTalents\TestNewTalents\obj\Debug
 C:\Users\loren\OneDrive\Documentos\www\teste\NewTalents\TestNewTalents\obj\Debug\netcoreapp3.1\TestNewTalents.dll
 C:\Users\loren\OneDrive\Documentos\www\teste\NewTalents\TestNewTalents\obj\Debug\netcoreapp3.1\TestNewTalents.pdb
 C:\Users\loren\OneDrive\Documentos\www\teste\NewTalents\TestNewTalents\obj\Debug\netcoreapp3.1\TestNewTalents.genruntimeconfig.cache
+C:\Users\loren\OneDrive\Documentos\www\teste\NewTalents\TestNewTalents\obj\Debug\netcoreapp3.1\TestNewTalents.sourcelink.json
